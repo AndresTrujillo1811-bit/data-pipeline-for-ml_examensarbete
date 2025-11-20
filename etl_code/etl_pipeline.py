@@ -16,7 +16,7 @@ def transform_data(df):
         df['month'] = df['sale_date'].dt.month
         df['year'] = df['sale_date'].dt.year
         df = pd.get_dummies(df, columns=['area'], drop_first=True)
-        df = df.drop(columns=df.select_dtypes(include=['bool']).columns)
+        df = df.drop(columns=df.select_dtypes(include=['bool']).columns) # Removing columns that returns False 
         df = df.drop(columns=[ 
             'coordinate', 
             'sale_date',
