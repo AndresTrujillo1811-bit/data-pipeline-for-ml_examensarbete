@@ -15,17 +15,16 @@ def transform_data(df):
         df['sale_date'] = pd.to_datetime(df['sale_date'], format="%Y-%m-%d" ,errors='coerce') # Transforming column date to datetime
         df['month'] = df['sale_date'].dt.month
         df['year'] = df['sale_date'].dt.year
-        df = df.drop(columns=[ 
+        df = pd.get_dummies(df, columns=['commune'], drop_first=True)
+        df = df.drop(columns=df.select_dtypes(include=['bool']).columns)
+        df = df.drop(columns=[
+            'Unnamed: 0',
+            'address', 
             'coordinate', 
             'sale_date',
-            'asked_price', 
-            'pourcentage_difference', 
-            'land_area',
             'month',
-            'year',
-            'supplemental_area',
-            'price_per_area'
-        ])
+            'year' 
+        ]) # Removing irrelevant columns 
         return df
     except Exception as e:
         print(f"An error ocurred: {e}")
