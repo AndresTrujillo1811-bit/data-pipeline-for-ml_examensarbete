@@ -15,7 +15,6 @@ def transform_data(df):
         df['sale_date'] = pd.to_datetime(df['sale_date'], format="%Y-%m-%d" ,errors='coerce') # Transforming column date to datetime
         df['month'] = df['sale_date'].dt.month
         df['year'] = df['sale_date'].dt.year
-        df = pd.get_dummies(df, columns=['commune'], drop_first=True)
         df = df.drop(columns=df.select_dtypes(include=['bool']).columns)
         df = df.drop(columns=[
             'Unnamed: 0',
@@ -23,7 +22,8 @@ def transform_data(df):
             'coordinate', 
             'sale_date',
             'month',
-            'year' 
+            'year',
+            'commune' 
         ]) # Removing irrelevant columns 
         return df
     except Exception as e:
