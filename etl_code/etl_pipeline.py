@@ -3,7 +3,7 @@ import pandas as pd
 import os 
 
 # Extract 
-def get_data(input_file="etl_code/hemnet_data_clean.csv"):
+def get_data(input_file):
     os.makedirs('etl_code/data_ml', exist_ok=True)
     df = pd.read_csv("etl_code/hemnet_data_clean.csv")
     return df #Loading raw data from csv file
