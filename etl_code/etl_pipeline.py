@@ -12,7 +12,7 @@ def get_data(input_file):
 def transform_data(df):
     try:            
         df = df.dropna(subset=['final_price', 'commune']) # Removing rows with missing columns
-        df['sale_date'] = pd.to_datetime(df['sale_date'], format="%Y-%m-%d" ,errors='coerce') # Transforming column date to datetime
+        df['sale_date'] = pd.to_datetime(df['sale_date'], format="%Y-%m-%d", errors='coerce') # Transforming column date to datetime
         df['month'] = df['sale_date'].dt.month
         df['year'] = df['sale_date'].dt.year
         df = df.drop(columns=df.select_dtypes(include=['bool']).columns)
