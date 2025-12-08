@@ -5,7 +5,7 @@ import seaborn as sns
 import joblib
 
 # Loading data and model
-data = pd.read_csv("data/house_price.csv")
+data = pd.read_csv("data/stockholm_house_price.csv")
 models = joblib.load("models/stockholm_house_price.pkl")
 predictions = pd.read_csv("data/predictions.csv")
 
@@ -45,4 +45,4 @@ price_per_area = st.number_input("Price per m²", min_value=10000.0, max_value=2
 communes = [col for col in data.columns if col.startswith('commune')] # Communes
 selected_commune = st.selectbox("Choose commune", [c.replace('commune', "") for c in communes]) # Select a commune 
 
-if 
+
