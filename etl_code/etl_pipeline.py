@@ -23,7 +23,6 @@ def transform_data(df):
             'sale_date',
             'month',
             'year',
-            'commune' 
         ]) # Removing irrelevant columns 
         return df
     except Exception as e:
@@ -38,7 +37,7 @@ def load_csv(df, output_file):
     
 def main():
     input_file = "etl_code/hemnet_data_clean.csv"
-    output_file = "etl_code/data_ml/house_price.csv"
+    output_file = "etl_code/data_ml/stockholm_house_price.csv"
     data = get_data(input_file)
     data = transform_data(data)
     load_csv(data, output_file)
