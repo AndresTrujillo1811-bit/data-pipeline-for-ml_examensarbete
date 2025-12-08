@@ -44,10 +44,4 @@ def main():
     print("Process completed!")
     
 if __name__ == '__main__':
-    main()    
-        
-            
-        
-         
-    
-    
+    main()   
