@@ -42,11 +42,11 @@ st.pyplot(fig)
 
 # Make your own prediction
 st.subheader("Test your own price prediction")
-land_area = st.number_input("Land Area (m²)", min_value=0.0, max_value=2000.0, value=500.0)
-rooms = st.number_input("Rooms", min_value=1, max_value=12, value=4)
-price_per_area = st.number_input("Price per m²", min_value=10000.0, max_value=200000.0, value=80000.0)
+land_area = st.number_input("Land Area (m²)", min_value=0.0, max_value=2000.0, value=500.0) # Land area
+rooms = st.number_input("Rooms", min_value=1, max_value=12, value=4) # Rooms
+price_per_area = st.number_input("Price per m²", min_value=10000.0, max_value=200000.0, value=80000.0) # Price per area
 
-# List all commune categories from your training data
+# List all commune categories from the training data
 commune_values = sorted(data["commune"].unique())
 selected_commune = st.selectbox("Choose commune", commune_values)
 
@@ -65,7 +65,6 @@ if st.button("Calculate expected price"):
     if "price_per_area" in input_df.columns:
         input_df.loc[0, "price_per_area"] = price_per_area
 
-    # Additional numeric columns (fill default / computed values)
     if "asked_price" in input_df.columns:
         input_df.loc[0, "asked_price"] = land_area * price_per_area
 
@@ -78,14 +77,14 @@ if st.button("Calculate expected price"):
     if "pourcentage_difference" in input_df.columns:
         input_df.loc[0, "pourcentage_difference"] = 0
 
-    # Set the correct commune column to 1
-    if selected_commune in input_df.columns:
+    if "commune" in input_df.columns:
         input_df.loc[0, "commune"] = selected_commune
 
 
     # Convert numeric columns to numbers
     num_cols = models.named_steps["preprocess"].transformers_[0][2]
     input_df[num_cols] = input_df[num_cols].apply(pd.to_numeric, errors="coerce")
+    input_df = input_df.fillna(0)
 
 
     # Predict
