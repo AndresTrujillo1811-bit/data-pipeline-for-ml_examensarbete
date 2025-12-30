@@ -1,0 +1,501 @@
+final_price,land_area,area,commune,price_per_area,rooms,sale_date,status
+6950000,635.0,117.0,"Hässelby Södra Villastad, Stockholms kommun",59402.0,5.0,2023-05-04,Sold
+11300000,882.0,195.0,"Mälarhöjden - Hägersten, Stockholms kommun",57949.0,5.0,2024-05-14,Sold
+6200000,1224.0,90.0,"Segeltorp, Huddinge kommun",68889.0,6.0,2023-02-05,Available
+12700000,542.0,110.0,"Gamla Enskede, Stockholms kommun",115455.0,5.0,2025-10-19,Sold
+8100000,690.0,157.0,"Skärholmshöjden., Stockholms kommun",51592.0,6.0,2023-03-08,Available
+16400000,529.0,136.0,"Enskede Gård, Stockholms kommun",120588.0,9.0,2024-09-13,Available
+4910000,688.0,140.0,"Johannesdal - Vårberg, Stockholms kommun",35071.0,6.0,2024-08-03,Available
+7195000,588.0,114.0,"Vällingby - Råcksta Trädgårdsstad, Stockholms kommun",63114.0,7.0,2024-11-28,Sold
+6070000,1530.0,98.0,"Trollbäcken/Hanviken, Tyresö kommun",61939.0,5.0,2023-03-30,Sold
+8500000,926.0,111.0,"Spånga Solhem, Stockholms kommun",76577.0,6.0,2023-05-11,Sold
+6500000,599.0,124.0,"Solberga, Stockholms kommun",52419.0,8.0,2024-01-16,Available
+16550000,610.0,164.0,"Mälarhöjden, Stockholms kommun",100915.0,7.0,2024-03-25,Sold
+7700000,689.0,154.0,"Helenelund, Sollentuna kommun",50000.0,5.0,2024-06-17,Sold
+13750000,710.0,148.0,"Stocksund, Danderyds kommun",92905.0,6.0,2023-11-07,Available
+8600000,1243.0,80.0,"Edsviken, Sollentuna kommun",107500.0,4.0,2023-07-25,Sold
+6995000,579.0,68.0,"Älvsjö, Stockholms kommun",102868.0,5.0,2025-06-15,Sold
+8250000,395.0,63.0,"Eneby, Stockholms kommun",130952.0,5.0,2025-06-18,Available
+7900000,802.0,111.0,"Barkarby, Järfälla kommun",71171.0,7.0,2024-10-07,Available
+9900000,849.0,169.0,"Hässelby Södra Villastad, Stockholms kommun",58580.0,7.0,2025-03-04,Sold
+7495000,980.0,157.0,"Nälsta, Stockholms kommun",47739.0,5.0,2023-07-24,Sold
+6165000,802.0,118.0,"Snättringe, Huddinge kommun",52246.0,5.0,2024-12-04,Sold
+14000000,546.0,102.0,"Bromma - Ålsten, Stockholms kommun",137255.0,6.0,2023-05-24,Available
+5900000,420.0,135.0,"Hässelby södra villastad, Stockholms kommun",43704.0,5.0,2024-05-20,Sold
+9200000,475.0,95.0,"Bromma Nockebyhov, Stockholms kommun",96842.0,5.0,2023-04-28,Sold
+8015000,470.0,85.0,"Bromma - Norra Ängby, Stockholms kommun",94294.0,6.0,2025-05-11,Sold
+14825000,265.0,157.0,"Bromma Smedslätten, Stockholms kommun",94427.0,7.0,2025-04-20,Available
+8650000,642.0,104.0,"Älvsjö, Stockholms kommun",83173.0,5.0,2025-06-23,Sold
+8500000,1075.0,163.0,"Älta - Hedvigslund, Nacka kommun",52147.0,6.0,2025-04-06,Sold
+10000000,662.0,124.0,"Bromma - Bromma Kyrka, Stockholms kommun",80645.0,7.0,2024-01-15,Available
+11995000,878.0,219.0,"Spånga - Bromsten, Stockholms kommun",54772.0,8.0,2023-06-12,Available
+6500000,837.0,103.0,"Barkarby, Järfälla kommun",63107.0,,2025-01-18,Sold
+8150000,423.0,122.0,"Norra Ängby, Stockholms kommun",66803.0,7.0,2024-11-14,Sold
+11300000,1134.0,210.0,"Helenelund, Sollentuna kommun",53810.0,9.0,2024-12-05,Sold
+7495000,1402.0,140.0,"Skälby, Järfälla kommun",53536.0,6.0,2024-05-20,Available
+6800000,8122.0,134.0,"Häggvik, Sollentuna kommun",50746.0,4.0,2024-11-13,Available
+7310000,665.0,124.0,"Hässelby - Södra Villastad, Stockholms kommun",58952.0,6.0,2025-08-12,Available
+5000000,814.0,117.0,"Farsta, Stockholms kommun",42735.0,5.0,2025-08-09,Available
+15700000,422.0,116.0,"Bromma - Ålsten, Stockholms kommun",135345.0,6.0,2024-06-19,Available
+19500000,1133.0,246.0,"Stocksund, Danderyds kommun",79268.0,10.0,2023-01-15,Sold
+21200000,1193.0,189.0,"Herserud, Lidingö kommun",112169.0,7.0,2025-09-03,Sold
+9850000,833.0,164.0,"Enskede - Stureby, Stockholms kommun",60061.0,6.0,2025-06-15,Available
+8800000,338.0,139.0,"Ursvik, Sundbybergs kommun",63309.0,5.0,2025-05-11,Available
+6825000,987.0,143.0,"Hässelby Södra Villastad, Stockholms kommun",47727.0,6.0,2024-04-29,Sold
+9840000,604.0,87.0,"Svedmyra, Stockholms kommun",113103.0,4.0,2025-02-08,Sold
+8600000,765.0,65.0,"Älvsjö - Örby, Stockholms kommun",132308.0,4.0,2023-06-06,Sold
+8500000,1423.0,170.0,"Lindalen, Tyresö kommun",50000.0,5.0,2023-01-14,Available
+9250000,1055.0,140.0,"Barkarby, Järfälla kommun",66071.0,7.0,2024-06-15,Sold
+10300000,768.0,153.0,"Långbro, Stockholms kommun",67320.0,6.0,2025-03-01,Sold
+8050000,1087.0,174.0,"Hanviken, Tyresö kommun",46264.0,6.0,2024-10-17,Sold
+6950000,786.0,118.0,"Hanviken, Tyresö kommun",58898.0,7.0,2023-12-23,Sold
+6950000,635.0,117.0,"Hässelby Södra Villastad, Stockholms kommun",59402.0,5.0,2025-08-03,Sold
+11300000,882.0,195.0,"Mälarhöjden - Hägersten, Stockholms kommun",57949.0,5.0,2025-05-23,Sold
+6200000,1224.0,90.0,"Segeltorp, Huddinge kommun",68889.0,6.0,2024-06-27,Sold
+12700000,542.0,110.0,"Gamla Enskede, Stockholms kommun",115455.0,5.0,2025-06-16,Sold
+8100000,690.0,157.0,"Skärholmshöjden., Stockholms kommun",51592.0,6.0,2023-09-04,Sold
+16400000,529.0,136.0,"Enskede Gård, Stockholms kommun",120588.0,9.0,2023-07-28,Sold
+4910000,688.0,140.0,"Johannesdal - Vårberg, Stockholms kommun",35071.0,6.0,2024-12-05,Sold
+7195000,588.0,114.0,"Vällingby - Råcksta Trädgårdsstad, Stockholms kommun",63114.0,7.0,2024-03-27,Sold
+6070000,1530.0,98.0,"Trollbäcken/Hanviken, Tyresö kommun",61939.0,5.0,2025-10-11,Sold
+8500000,926.0,111.0,"Spånga Solhem, Stockholms kommun",76577.0,6.0,2025-02-21,Sold
+6500000,599.0,124.0,"Solberga, Stockholms kommun",52419.0,8.0,2024-06-04,Sold
+16550000,610.0,164.0,"Mälarhöjden, Stockholms kommun",100915.0,7.0,2025-09-22,Available
+7700000,689.0,154.0,"Helenelund, Sollentuna kommun",50000.0,5.0,2023-02-03,Available
+13750000,710.0,148.0,"Stocksund, Danderyds kommun",92905.0,6.0,2023-01-01,Sold
+8600000,1243.0,80.0,"Edsviken, Sollentuna kommun",107500.0,4.0,2023-06-04,Sold
+6995000,579.0,68.0,"Älvsjö, Stockholms kommun",102868.0,5.0,2024-05-14,Sold
+8250000,395.0,63.0,"Eneby, Stockholms kommun",130952.0,5.0,2024-10-26,Sold
+7900000,802.0,111.0,"Barkarby, Järfälla kommun",71171.0,7.0,2023-01-27,Sold
+9900000,849.0,169.0,"Hässelby Södra Villastad, Stockholms kommun",58580.0,7.0,2023-03-10,Available
+7495000,980.0,157.0,"Nälsta, Stockholms kommun",47739.0,5.0,2023-10-24,Available
+6165000,802.0,118.0,"Snättringe, Huddinge kommun",52246.0,5.0,2024-09-15,Sold
+14000000,546.0,102.0,"Bromma - Ålsten, Stockholms kommun",137255.0,6.0,2024-05-15,Available
+5900000,420.0,135.0,"Hässelby södra villastad, Stockholms kommun",43704.0,5.0,2023-05-04,Sold
+9200000,475.0,95.0,"Bromma Nockebyhov, Stockholms kommun",96842.0,5.0,2024-06-03,Sold
+8015000,470.0,85.0,"Bromma - Norra Ängby, Stockholms kommun",94294.0,6.0,2025-06-08,Available
+14825000,265.0,157.0,"Bromma Smedslätten, Stockholms kommun",94427.0,7.0,2025-02-04,Sold
+8650000,642.0,104.0,"Älvsjö, Stockholms kommun",83173.0,5.0,2024-05-31,Sold
+8500000,1075.0,163.0,"Älta - Hedvigslund, Nacka kommun",52147.0,6.0,2024-10-29,Sold
+10000000,662.0,124.0,"Bromma - Bromma Kyrka, Stockholms kommun",80645.0,7.0,2025-09-14,Available
+11995000,878.0,219.0,"Spånga - Bromsten, Stockholms kommun",54772.0,8.0,2023-10-09,Sold
+6500000,837.0,103.0,"Barkarby, Järfälla kommun",63107.0,,2025-03-22,Sold
+8150000,423.0,122.0,"Norra Ängby, Stockholms kommun",66803.0,7.0,2024-01-15,Available
+11300000,1134.0,210.0,"Helenelund, Sollentuna kommun",53810.0,9.0,2024-11-16,Available
+7495000,1402.0,140.0,"Skälby, Järfälla kommun",53536.0,6.0,2025-04-01,Sold
+6800000,8122.0,134.0,"Häggvik, Sollentuna kommun",50746.0,4.0,2023-10-18,Available
+7310000,665.0,124.0,"Hässelby - Södra Villastad, Stockholms kommun",58952.0,6.0,2023-12-13,Sold
+5000000,814.0,117.0,"Farsta, Stockholms kommun",42735.0,5.0,2025-06-27,Sold
+15700000,422.0,116.0,"Bromma - Ålsten, Stockholms kommun",135345.0,6.0,2025-01-22,Available
+19500000,1133.0,246.0,"Stocksund, Danderyds kommun",79268.0,10.0,2023-09-06,Sold
+21200000,1193.0,189.0,"Herserud, Lidingö kommun",112169.0,7.0,2023-08-11,Available
+9850000,833.0,164.0,"Enskede - Stureby, Stockholms kommun",60061.0,6.0,2023-06-11,Available
+8800000,338.0,139.0,"Ursvik, Sundbybergs kommun",63309.0,5.0,2025-12-11,Sold
+6825000,987.0,143.0,"Hässelby Södra Villastad, Stockholms kommun",47727.0,6.0,2024-08-16,Sold
+9840000,604.0,87.0,"Svedmyra, Stockholms kommun",113103.0,4.0,2024-06-08,Available
+8600000,765.0,65.0,"Älvsjö - Örby, Stockholms kommun",132308.0,4.0,2023-09-13,Sold
+8500000,1423.0,170.0,"Lindalen, Tyresö kommun",50000.0,5.0,2023-09-22,Available
+9250000,1055.0,140.0,"Barkarby, Järfälla kommun",66071.0,7.0,2023-09-27,Sold
+10300000,768.0,153.0,"Långbro, Stockholms kommun",67320.0,6.0,2024-10-27,Sold
+8050000,1087.0,174.0,"Hanviken, Tyresö kommun",46264.0,6.0,2023-06-10,Available
+6950000,786.0,118.0,"Hanviken, Tyresö kommun",58898.0,7.0,2025-05-29,Available
+8400000,1720.0,141.0,"Trångsund, Huddinge kommun",59574.0,6.0,2023-09-24,Sold
+6250000,158.0,137.0,"Sköndal - Norra Sköndal, Stockholms kommun",45620.0,5.0,2024-12-04,Sold
+10900000,813.0,129.0,"Mälarhöjden, Stockholms kommun",84496.0,6.0,2024-06-07,Available
+7225000,1161.0,131.0,"Hanviken/Trollbäcken, Tyresö kommun",55153.0,5.0,2025-07-27,Sold
+7275000,683.0,146.0,"Vinsta, Stockholms kommun",49829.0,6.0,2023-03-23,Sold
+7975000,565.0,93.0,"Spånga Solhem, Stockholms kommun",85753.0,5.0,2023-09-16,Sold
+10100000,665.0,136.0,"Sköndal - Kakstan, Stockholms kommun",74265.0,6.0,2023-09-03,Sold
+22500000,693.0,209.0,"Bromma - Ålsten, Stockholms kommun",107656.0,8.0,2025-01-20,Available
+8100000,1130.0,144.0,"Stuvsta, Huddinge kommun",56250.0,6.0,2025-08-07,Available
+7900000,436.0,79.0,"Eneby, Stockholms kommun",100000.0,5.0,2025-11-14,Available
+6395000,298.0,119.0,"Skälby, Järfälla kommun",53739.0,5.0,2023-12-27,Available
+7500000,662.0,120.0,"Fagersjö, Stockholms kommun",62500.0,4.0,2025-04-10,Sold
+8550000,814.0,183.0,"Vällingby Nälsta, Stockholms kommun",46721.0,6.0,2025-01-20,Sold
+9030000,1265.0,128.0,"Lindalen, Tyresö kommun",70547.0,7.0,2024-07-16,Available
+10450000,499.0,118.0,"Tallkrogen, Stockholms kommun",88559.0,6.0,2023-08-19,Available
+16900000,1175.0,187.0,"Mälarhöjden, Stockholms kommun",90374.0,7.0,2023-12-31,Sold
+9500000,307.0,136.0,"Sköndal, Stockholms kommun",69853.0,6.0,2023-05-10,Sold
+11300000,1266.0,166.0,"Töjnan, Sollentuna kommun",68072.0,8.0,2025-02-23,Sold
+8250000,798.0,105.0,"Älvsjö - Herrängen, Stockholms kommun",78571.0,6.0,2023-12-22,Available
+8200000,,89.0,"Ulvsunda, Stockholms kommun",92135.0,4.0,2024-09-17,Sold
+4900000,93.0,85.0,"Rissne, Sundbybergs kommun",57647.0,3.0,2025-06-24,Available
+12500000,700.0,142.0,"Älvsjö - Herrängen, Stockholms kommun",88028.0,8.0,2025-10-16,Sold
+17650000,875.0,193.0,"Mälarhöjden, Stockholms kommun",91451.0,8.0,2025-09-06,Sold
+22000000,820.0,266.0,"Bromma Nockeby, Stockholms kommun",82707.0,10.0,2024-01-11,Sold
+15000000,501.0,204.0,"Mälarhöjden, Stockholms kommun",73529.0,6.0,2024-12-17,Available
+7250000,453.0,67.0,"Vällingby Parkstad / Råcksta, Stockholms kommun",108209.0,6.0,2025-01-30,Sold
+8000000,726.0,142.0,"Flysta, Stockholms kommun",56338.0,9.0,2025-03-10,Sold
+8800000,640.0,174.0,"Vällingby Nälsta, Stockholms kommun",50575.0,6.0,2023-07-20,Available
+5700000,752.0,166.0,"Johannesdal, Stockholms kommun",34337.0,5.0,2023-06-05,Available
+6800000,471.0,166.0,"Sätra, Stockholms kommun",40964.0,8.0,2025-03-31,Sold
+11750000,716.0,140.0,"Älvsjö, Stockholms kommun",83929.0,7.0,2024-12-23,Available
+8835000,765.0,156.0,"Spånga - Solhem, Stockholms kommun",56635.0,7.0,2023-08-28,Sold
+9000000,1288.0,142.0,"Stuvsta Segersminne, Huddinge kommun",63380.0,6.0,2023-04-25,Sold
+9300000,1002.0,114.0,"Älvsjö/Herrängen, Stockholms kommun",81579.0,5.0,2024-05-06,Sold
+12000000,1049.0,172.0,"Lindalen, Tyresö kommun",69767.0,,2024-04-01,Sold
+6650000,286.0,195.0,"Sköndal, Stockholms kommun",34103.0,6.0,2023-10-25,Sold
+7725000,1132.0,69.0,"Älvsjö/Långbro, Stockholms kommun",111957.0,4.0,2023-05-18,Sold
+4700000,458.0,112.0,"Skärholmen, Stockholms kommun",41964.0,5.0,2024-04-07,Sold
+9400000,557.0,188.0,"Örby, Stockholms kommun",50000.0,8.0,2025-02-03,Sold
+12900000,353.0,104.0,"Gamla Enskede, Stockholms kommun",124038.0,4.0,2024-09-11,Available
+6850000,7375.0,148.0,"Fållan, Huddinge kommun",46284.0,7.0,2023-10-06,Sold
+6200000,494.0,112.0,"Hanviken, Tyresö kommun",55357.0,6.0,2025-01-10,Sold
+10000000,642.0,72.0,"Svedmyra/Enskede, Stockholms kommun",138889.0,6.0,2024-09-04,Available
+16750000,637.0,138.0,"Södra Ängby, Stockholms kommun",121377.0,7.0,2023-07-11,Sold
+8200000,151.0,115.0,"Beckomberga, Stockholms kommun",71304.0,5.0,2023-09-01,Sold
+9500000,839.0,151.0,"Spånga Flysta, Stockholms kommun",62914.0,10.0,2024-11-10,Sold
+9500000,1252.0,131.0,"Segeltorp, Huddinge kommun",72519.0,6.0,2023-11-12,Sold
+7595000,452.0,74.0,"Tallkrogen, Stockholms kommun",102635.0,5.0,2023-07-31,Sold
+9750000,1006.0,150.0,"Snättringe/Långsjön, Huddinge kommun",65000.0,5.0,2023-03-27,Available
+7800000,670.0,120.0,"Hässelby Södra Villastad, Stockholms kommun",65000.0,6.0,2023-02-16,Sold
+8450000,669.0,141.0,"Spånga - Solhöjden, Stockholms kommun",59929.0,5.0,2025-10-12,Sold
+6075000,716.0,139.0,"Hässelby Södra Villastad, Stockholms kommun",43705.0,5.0,2025-08-03,Sold
+8100000,681.0,108.0,"Spånga - Solhem, Stockholms kommun",75000.0,8.0,2025-12-24,Sold
+5800000,611.0,129.0,"Hässelby - Norra Villastad, Stockholms kommun",44961.0,5.0,2025-09-27,Sold
+9940000,574.0,84.0,"Gamla Enskede, Stockholms kommun",118333.0,5.0,2025-04-07,Sold
+6650000,663.0,119.0,"Spånga Bromsten, Stockholms kommun",55882.0,5.0,2025-03-20,Available
+9600000,1152.0,144.0,"Solhem, Stockholms kommun",66667.0,6.0,2023-04-07,Sold
+7900000,652.0,196.0,"Hässelby Södra Villastad, Stockholms kommun",40306.0,7.0,2023-06-20,Sold
+9750000,877.0,149.0,"Hässelby Södra Villastad, Stockholms kommun",65436.0,8.0,2023-04-25,Sold
+11750000,887.0,108.0,"Hägersten, Stockholms kommun",108796.0,4.0,2024-04-01,Sold
+6800000,1237.0,90.0,"Barkarby, Järfälla kommun",75556.0,5.0,2025-10-21,Available
+10500000,555.0,66.0,"Hökmossen/Telefonplan, Stockholms kommun",159091.0,5.0,2025-11-27,Sold
+12975000,1295.0,276.0,"Älvsjö - Örby slott, Stockholms kommun",47011.0,8.0,2023-04-16,Available
+5300000,601.0,103.0,"Hässelby Södra Villastad, Stockholms kommun",51456.0,4.0,2025-05-24,Sold
+6100000,364.0,135.0,"Hässelby Södra Villastad, Stockholms kommun",45185.0,7.0,2023-08-04,Sold
+6045000,1059.0,83.0,"Centrala Stuvsta, Huddinge kommun",72831.0,4.0,2023-03-31,Available
+10170000,749.0,101.0,"Älvsjö - Långbro, Stockholms kommun",100693.0,4.0,2024-04-22,Sold
+7600000,1034.0,145.0,"Johannesdal, Stockholms kommun",52414.0,6.0,2023-02-11,Sold
+7450000,1797.0,293.0,"Lindalen, Tyresö kommun",25427.0,10.0,2025-12-16,Available
+9000000,707.0,205.0,"Huddinge - Stuvsta, Huddinge kommun",43902.0,7.0,2025-01-21,Sold
+8000000,577.0,69.0,"Hägersten, Stockholms kommun",115942.0,6.0,2023-05-06,Sold
+10300000,601.0,200.0,"Spånga Bromsten, Stockholms kommun",51500.0,12.0,2024-11-10,Sold
+10450000,1330.0,170.0,"Stuvsta, Huddinge kommun",61471.0,5.0,2024-10-18,Sold
+17350000,512.0,143.0,"Gamla Enskede, Stockholms kommun",121329.0,6.0,2023-06-28,Sold
+25000000,774.0,375.0,"Bromma, Stockholms kommun",66667.0,11.0,2025-12-29,Sold
+9975000,915.0,195.0,"Hässelby Södra Villastad, Stockholms kommun",51154.0,8.0,2024-10-17,Sold
+4800000,420.0,113.0,"Skärholmen, Stockholms kommun",42478.0,5.0,2023-04-06,Available
+10000000,482.0,100.0,"Bromma - Norra Ängby, Stockholms kommun",100000.0,7.0,2024-01-11,Sold
+21700000,564.0,173.0,"Bromma - Nockeby, Stockholms kommun",125434.0,7.0,2025-08-18,Sold
+8500000,904.0,153.0,"Hanviken, Tyresö kommun",55556.0,7.0,2023-03-09,Sold
+9850000,10057.0,194.0,"Sjöängen/Trångsund, Huddinge kommun",50773.0,7.0,2024-11-26,Sold
+7100000,602.0,112.0,"Stuvsta, Huddinge kommun",63393.0,6.0,2023-02-13,Available
+8000000,1267.0,180.0,"Trångsund, Huddinge kommun",44444.0,5.0,2024-05-02,Available
+8765000,1569.0,153.0,"Högmora, Huddinge kommun",57288.0,6.0,2025-11-09,Sold
+5900000,1714.0,97.0,"Trollbäcken, Tyresö kommun",60825.0,8.0,2024-12-31,Available
+10900000,1015.0,171.0,"Segeltorp, Huddinge kommun",63743.0,6.0,2023-07-17,Sold
+15200000,823.0,185.0,"Älvsjö/Långbro, Stockholms kommun",82162.0,8.0,2023-10-13,Sold
+7000000,579.0,145.0,"Fornudden-Persudde, Tyresö kommun",48276.0,6.0,2024-05-21,Available
+5775000,662.0,117.0,"Hässelby Södra Villastad, Stockholms kommun",49359.0,4.0,2023-05-12,Sold
+15000000,978.0,115.0,"Mälarhöjden, Stockholms kommun",130435.0,5.0,2023-02-27,Sold
+10600000,830.0,125.0,"Herrängen - Segeltorp, Huddinge kommun",84800.0,6.0,2024-05-01,Available
+8900000,585.0,70.0,"Älvsjö/Herrängen, Stockholms kommun",127143.0,5.0,2023-06-01,Sold
+8670000,1299.0,131.0,"Lindalen, Tyresö kommun",66183.0,5.0,2023-11-21,Sold
+21100000,706.0,158.0,"Bromma - Ålsten, Stockholms kommun",133544.0,7.0,2024-01-16,Available
+11825000,970.0,164.0,"Älvsjö/Långsjö, Stockholms kommun",72104.0,8.0,2024-09-08,Sold
+11025000,944.0,198.0,"Kolarängen - Älta Strandväg, Nacka kommun",55682.0,6.0,2024-03-17,Available
+9025000,12444.0,158.0,"Sjöängen/Trångsund, Huddinge kommun",57120.0,7.0,2023-03-19,Sold
+11550000,761.0,157.0,"Centrala Älta, Nacka kommun",73567.0,7.0,2025-11-27,Available
+24000000,730.0,200.0,"Stocksund, Danderyds kommun",120000.0,8.0,2023-07-18,Available
+20000000,1502.0,265.0,"Herserud, Lidingö kommun",75472.0,8.0,2024-05-15,Sold
+8400000,426.0,78.0,"Norra Ängby, Stockholms kommun",107692.0,6.0,2023-08-19,Sold
+8800000,208.0,122.0,"Beckomberga, Stockholms kommun",72131.0,5.0,2024-01-08,Sold
+7150000,594.0,110.0,"Herrängen, Stockholms kommun",65000.0,4.0,2023-06-08,Available
+10800000,1117.0,133.0,"Stuvsta, Huddinge kommun",81203.0,8.0,2023-09-13,Sold
+9500000,1198.0,115.0,"Stensängen, Huddinge kommun",82609.0,7.0,2023-03-19,Sold
+16150000,749.0,134.0,"Gamla Enskede, Stockholms kommun",120522.0,6.0,2023-10-15,Sold
+7880000,552.0,84.0,"Sköndal, Stockholms kommun",93810.0,6.0,2024-07-11,Sold
+15750000,881.0,86.0,"Nysätra, Nacka kommun",183140.0,5.0,2024-05-21,Sold
+6500000,643.0,182.0,"Hässelby Södra Villastad, Stockholms kommun",35714.0,,2024-07-26,Sold
+14750000,928.0,127.0,"Stureby, Stockholms kommun",116142.0,7.0,2023-01-22,Available
+6550000,903.0,106.0,"Spånga Flysta, Stockholms kommun",61792.0,5.0,2025-02-28,Available
+10000000,976.0,124.0,"Töjnan, Sollentuna kommun",80645.0,8.0,2024-04-12,Sold
+7700000,1302.0,106.0,"Töjnan, Sollentuna kommun",72642.0,6.0,2023-02-07,Sold
+9200000,838.0,183.0,"Barkarby, Järfälla kommun",50273.0,5.0,2024-06-05,Sold
+6445000,632.0,168.0,"Hässelby - Backlura, Stockholms kommun",38363.0,5.0,2024-07-15,Sold
+9275000,344.0,139.0,"Ursvik, Sundbybergs kommun",66727.0,5.0,2023-11-28,Available
+14500000,1596.0,160.0,"Helenelund, Sollentuna kommun",90625.0,8.0,2023-08-26,Sold
+8300000,972.0,170.0,"Segeltorp, Huddinge kommun",48824.0,5.0,2023-09-30,Sold
+9200000,806.0,150.0,"Trångsund, Huddinge kommun",61333.0,6.0,2024-05-03,Sold
+3500000,200.0,92.0,"Skälby, Järfälla kommun",38043.0,4.0,2025-02-15,Sold
+22250000,1003.0,304.0,"Stureby, Stockholms kommun",73191.0,7.0,2024-09-03,Sold
+13500000,497.0,82.0,"Bromma Nockebyhov, Stockholms kommun",164634.0,8.0,2023-09-17,Available
+15000000,736.0,159.0,"Bromma Kyrka, Stockholms kommun",94340.0,7.0,2025-09-18,Available
+7150000,1452.0,104.0,"Älta - Älta Gård, Nacka kommun",68750.0,8.0,2023-08-10,Available
+14800000,870.0,266.0,"Örby - Älvsjö, Stockholms kommun",55639.0,8.0,2023-05-09,Sold
+26000000,637.0,197.0,"Södra Ängby, Stockholms kommun",131980.0,11.0,2024-07-03,Sold
+14700000,2276.0,713.0,"Skälby, Järfälla kommun",20617.0,10.0,2024-01-17,Sold
+6950000,599.0,69.0,"Tallkrogen, Stockholms kommun",100725.0,4.0,2023-08-30,Sold
+6450000,341.0,118.0,"Fagersjö, Stockholms kommun",54661.0,5.0,2023-05-14,Sold
+8550000,717.0,173.0,"Skälby, Järfälla kommun",49422.0,5.0,2025-11-26,Available
+15450000,611.0,170.0,"Mälarhöjden, Stockholms kommun",90882.0,10.0,2024-10-27,Available
+9100000,800.0,153.0,"Tureberg, Sollentuna kommun",59477.0,7.0,2025-05-14,Sold
+7350000,694.0,141.0,"Vällingby - Nälsta, Stockholms kommun",52128.0,6.0,2024-10-18,Sold
+11200000,797.0,130.0,"Vällingbyhöjden, Stockholms kommun",86154.0,5.0,2025-01-14,Sold
+8000000,511.0,114.0,"Örby, Stockholms kommun",70175.0,5.0,2024-09-21,Sold
+20500000,823.0,196.0,"Duvbo, Sundbybergs kommun",104592.0,8.0,2024-02-16,Sold
+8350000,595.0,112.0,"Vällingby Nälsta, Stockholms kommun",74554.0,5.0,2023-10-26,Available
+10025000,975.0,172.0,"Spånga Solhem, Stockholms kommun",58285.0,9.0,2024-03-29,Sold
+16000000,447.0,142.0,"Bromma - Norra Ängby, Stockholms kommun",112676.0,8.0,2025-04-13,Available
+6600000,538.0,69.0,"Gubbängen - Enskede, Stockholms kommun",95652.0,5.0,2025-08-06,Sold
+7430000,539.0,65.0,"Vällingby - Råcksta, Stockholms kommun",114308.0,5.0,2025-08-05,Available
+7200000,675.0,77.0,"Älvsjö, Stockholms kommun",93506.0,5.0,2025-01-07,Sold
+7275000,645.0,68.0,"Älvsjö/Långbro, Stockholms kommun",106985.0,5.0,2024-02-13,Sold
+13270000,547.0,79.0,"Bromma Södra Ängby, Stockholms kommun",167975.0,8.0,2023-02-03,Available
+11050000,1076.0,182.0,"Huddinge - Stuvsta, Huddinge kommun",60714.0,6.0,2025-05-29,Sold
+6800000,647.0,66.0,"Sköndal, Stockholms kommun",103030.0,5.0,2024-12-11,Sold
+10850000,573.0,129.0,"Olovslund, Stockholms kommun",84109.0,6.0,2024-06-24,Sold
+7450000,1058.0,80.0,"Stuvsta, Huddinge kommun",93125.0,5.0,2023-01-04,Available
+11000000,973.0,122.0,"Bromma Kyrka, Stockholms kommun",90164.0,8.0,2024-01-15,Available
+9800000,396.0,150.0,"Stora Ursvik, Sundbybergs kommun",65333.0,5.0,2024-08-29,Sold
+8900000,1399.0,159.0,"Helenelund/Fågelsången, Sollentuna kommun",55975.0,6.0,2024-10-26,Sold
+11700000,1124.0,121.0,"Enskede - Stureby, Stockholms kommun",96694.0,5.0,2025-05-07,Available
+11200000,661.0,130.0,"Mariehäll, Stockholms kommun",86154.0,7.0,2024-03-18,Sold
+4900000,776.0,,"Hässelby Södra Villastad, Stockholms kommun",,,2025-04-29,Available
+11500000,1470.0,185.0,"Segeltorp/Långsjön, Huddinge kommun",62162.0,5.0,2025-11-21,Sold
+5700000,583.0,150.0,"Skärholmen, Stockholms kommun",38000.0,6.0,2024-04-15,Sold
+10550000,1311.0,162.0,"Spånga, Stockholms kommun",65123.0,7.0,2024-09-28,Available
+8250000,499.0,67.0,"Tallkrogen, Stockholms kommun",123134.0,6.0,2024-08-30,Available
+9300000,514.0,66.0,"Tallkrogen, Stockholms kommun",140909.0,5.0,2024-02-08,Sold
+6680000,902.0,83.0,"Spånga - Bromsten, Stockholms kommun",80482.0,6.0,2023-01-07,Sold
+8375000,496.0,68.0,"Enskede - Tallkrogen, Stockholms kommun",123162.0,5.0,2025-11-22,Available
+10650000,468.0,90.0,"Tallkrogen, Stockholms kommun",118333.0,7.0,2024-11-03,Sold
+11200000,903.0,102.0,"Älvsjö/Herrängen, Stockholms kommun",109804.0,5.0,2025-03-29,Sold
+7060000,648.0,68.0,"Älvsjö, Stockholms kommun",103824.0,3.0,2024-11-18,Available
+12600000,787.0,130.0,"Mälarhöjden, Stockholms kommun",96923.0,7.0,2025-03-08,Sold
+8300000,872.0,195.0,"Lindalen, Tyresö kommun",42564.0,7.0,2025-09-13,Available
+14000000,1117.0,180.0,"Älta - Kolarängen, Nacka kommun",77778.0,7.0,2025-01-16,Sold
+6650000,1002.0,68.0,"Snättringe, Huddinge kommun",97794.0,5.0,2025-05-21,Available
+9700000,9443.0,137.0,"Fågelsången, Sollentuna kommun",70803.0,7.0,2024-09-24,Sold
+9900000,911.0,112.0,"Hässelby Södra Villastad, Stockholms kommun",88393.0,6.0,2023-05-15,Sold
+10200000,1082.0,250.0,"Fornudden-Persudde, Tyresö kommun",40800.0,8.0,2024-09-05,Sold
+9150000,705.0,152.0,"Barkarby, Järfälla kommun",60197.0,7.0,2023-07-10,Available
+8525000,1420.0,143.0,"Segeltorp, Huddinge kommun",59615.0,6.0,2023-09-25,Sold
+17000000,690.0,175.0,"Enskede Gård, Stockholms kommun",97143.0,7.0,2023-07-04,Available
+13900000,510.0,90.0,"Bromma - Ålsten, Stockholms kommun",154444.0,6.0,2024-03-31,Sold
+11850000,836.0,232.0,"Hässelby Södra Villastad, Stockholms kommun",51078.0,8.0,2024-11-07,Available
+8575000,967.0,210.0,"Lindalen, Tyresö kommun",40833.0,7.0,2023-11-06,Available
+6970000,1140.0,135.0,"Trångsund , Huddinge kommun",51630.0,5.0,2025-06-29,Available
+13400000,484.0,108.0,"Norra Ängby, Stockholms kommun",124074.0,6.0,2025-12-16,Available
+16500000,628.0,160.0,"Mälarhöjden, Stockholms kommun",103125.0,6.0,2025-07-28,Sold
+8400000,671.0,105.0,"Älvsjö - Långbro, Stockholms kommun",80000.0,7.0,2025-11-22,Sold
+7800000,661.0,99.0,"Örby, Stockholms kommun",78788.0,6.0,2023-04-13,Sold
+6500000,205.0,138.0,"Skärholmen, Stockholms kommun",47101.0,8.0,2025-01-17,Sold
+7000000,469.0,138.0,"Hässelby Norra Villastad, Stockholms kommun",50725.0,5.0,2025-02-05,Sold
+15000000,600.0,140.0,"Enskede - Stureby, Stockholms kommun",107143.0,6.0,2024-07-05,Sold
+10500000,694.0,101.0,"Telefonplan, Stockholms kommun",103960.0,5.0,2023-07-02,Sold
+7400000,868.0,72.0,"Segeltorp, Huddinge kommun",102778.0,5.0,2024-09-20,Sold
+20000000,773.0,176.0,"Bromma Ålsten, Stockholms kommun",113636.0,9.0,2025-04-22,Sold
+8800000,966.0,100.0,"Älvsjö - Örby Slott, Stockholms kommun",88000.0,6.0,2025-01-08,Sold
+8700000,526.0,83.0,"Enskede - Tallkrogen, Stockholms kommun",104819.0,7.0,2024-11-02,Available
+21000000,824.0,162.0,"Bromma Äppelviken-Ålsten, Stockholms kommun",129630.0,7.0,2024-11-19,Sold
+11100000,962.0,175.0,"Älta, Nacka kommun",63429.0,7.0,2025-11-14,Sold
+5250000,3096.0,112.0,"Färingsö, Svartsjö, Ekerö kommun",46875.0,5.0,2023-10-03,Sold
+10500000,658.0,194.0,"Vällingby Nälsta, Stockholms kommun",54124.0,10.0,2024-05-01,Sold
+9000000,662.0,215.0,"Hässelby Södra Villastad, Stockholms kommun",41860.0,7.0,2023-04-08,Sold
+10525000,4417.0,120.0,"Färingsö, Ekerö kommun",87708.0,4.0,2023-04-12,Sold
+8700000,557.0,71.0,"Bromma Nockebyhov, Stockholms kommun",122535.0,3.0,2025-11-27,Sold
+5650000,788.0,121.0,"Hässelby - Norra Villastad, Stockholms kommun",46694.0,4.0,2023-10-22,Available
+7000000,506.0,65.0,"Enskede, Stockholms kommun",107692.0,4.0,2025-03-14,Sold
+7520000,746.0,160.0,"Segeltorp, Huddinge kommun",47000.0,6.0,2024-05-03,Sold
+6600000,526.0,68.0,"Vällingby - Råcksta, Stockholms kommun",97059.0,6.0,2024-08-26,Sold
+7050000,702.0,142.0,"Kälvesta, Stockholms kommun",49648.0,7.0,2024-09-10,Sold
+28300000,646.0,239.0,"Bromma - Höglandet, Stockholms kommun",118410.0,8.0,2023-10-25,Sold
+14200000,686.0,161.0,"Enskededalen, Stockholms kommun",88199.0,7.0,2023-08-28,Sold
+7200000,1247.0,103.0,"Spånga Flysta, Stockholms kommun",69903.0,4.0,2023-07-23,Sold
+10200000,465.0,66.0,"Norra Ängby, Stockholms kommun",154545.0,6.0,2024-05-07,Sold
+7680000,1527.0,153.0,"Helenelund, Sollentuna kommun",50196.0,6.0,2024-05-12,Sold
+9800000,365.0,53.0,"Tallkrogen, Stockholms kommun",184906.0,4.0,2023-01-14,Sold
+6650000,359.0,48.0,"Svedmyra, Stockholms kommun",138542.0,4.0,2024-04-20,Available
+11000000,13811.0,197.0,"Segeltorp, Huddinge kommun",55838.0,6.0,2024-01-05,Sold
+7960000,989.0,138.0,"Vällingby - Nälsta, Stockholms kommun",57681.0,5.0,2025-02-25,Sold
+10600000,487.0,103.0,"Bromma - Norra Ängby, Stockholms kommun",102913.0,7.0,2023-05-09,Available
+6800000,818.0,117.0,"Snättringe, Huddinge kommun",58120.0,5.0,2024-01-12,Sold
+9000000,830.0,126.0,"Örby Slott - Älvsjö, Stockholms kommun",71429.0,5.0,2025-06-17,Sold
+9300000,1930.0,146.0,"Mellansjö, Huddinge kommun",63699.0,5.0,2025-09-16,Available
+17750000,670.0,162.0,"Södra Ängby, Stockholms kommun",109568.0,7.0,2023-03-03,Available
+8550000,487.0,70.0,"Bällsta, Stockholms kommun",122143.0,5.0,2025-09-05,Sold
+16000000,586.0,114.0,"Nockebyhov, Stockholms kommun",140351.0,6.0,2023-01-17,Sold
+11500000,400.0,119.0,"Ulvsunda, Stockholms kommun",96639.0,6.0,2025-05-07,Available
+7000000,213.0,79.0,"Fruängen, Stockholms kommun",88608.0,4.0,2025-10-28,Available
+12600000,592.0,96.0,"Bromma Ålsten, Stockholms kommun",131250.0,5.0,2023-08-08,Sold
+8700000,950.0,106.0,"Spånga Sundby, Stockholms kommun",82075.0,7.0,2025-01-15,Sold
+19000000,573.0,206.0,"Ålsten, Stockholms kommun",92233.0,7.0,2024-08-22,Available
+26000000,874.0,229.0,"Höglandet, Stockholms kommun",113537.0,,2023-05-02,Sold
+12000000,314.0,174.0,"Beckomberga, Stockholms kommun",68966.0,6.0,2023-12-16,Available
+7525000,400.0,92.0,"Tallkrogen, Stockholms kommun",81793.0,5.0,2023-12-27,Available
+9400000,500.0,71.0,"Svedmyra, Stockholms kommun",132394.0,6.0,2024-04-15,Available
+18600000,658.0,145.0,"Gamla Enskede, Stockholms kommun",128276.0,7.0,2025-05-17,Available
+14750000,961.0,212.0,"Älta - Kolarängen, Nacka kommun",69575.0,8.0,2023-09-23,Available
+7850000,890.0,113.0,"Trollbäcken, Tyresö kommun",69469.0,,2023-05-28,Sold
+9225000,760.0,145.0,"Vällingby Nälsta, Stockholms kommun",63621.0,7.0,2024-07-19,Available
+8575000,1034.0,168.0,"Stortorp, Huddinge kommun",51042.0,9.0,2025-02-02,Available
+6300000,1262.0,127.0,"Fornudden-Persudde, Tyresö kommun",49606.0,,2023-05-20,Available
+9500000,521.0,74.0,"Enskede - Pungpinan, Stockholms kommun",128378.0,5.0,2024-08-11,Sold
+6650000,950.0,109.0,"Stortorp, Huddinge kommun",61009.0,4.0,2023-09-23,Sold
+21200000,918.0,1766.0,"Äppelviken, Stockholms kommun",120045.0,10.0,2023-02-19,Sold
+9525000,1109.0,107.0,"Älvsjö, Stockholms kommun",89019.0,5.0,2024-08-02,Sold
+11200000,493.0,85.0,"Norra Ängby, Stockholms kommun",131765.0,4.0,2024-05-21,Sold
+8650000,764.0,151.0,"Trångsund - Stortorp, Huddinge kommun",57285.0,5.0,2023-01-09,Sold
+8580000,918.0,163.0,"Lindalen, Tyresö kommun",52638.0,6.0,2025-01-09,Available
+9575000,248.0,85.0,"Bagarmossen, Stockholms kommun",112647.0,6.0,2025-04-11,Available
+6800000,243.0,119.0,"Skälby, Järfälla kommun",57143.0,5.0,2023-05-22,Available
+17800000,799.0,236.0,"Tulemarken, Sundbybergs kommun",75424.0,8.0,2023-08-30,Sold
+11350000,525.0,174.0,"Spånga Nälsta, Stockholms kommun",65230.0,6.0,2024-02-25,Sold
+7960000,719.0,68.0,"Älvsjö - Långbro, Stockholms kommun",117059.0,5.0,2025-12-23,Sold
+13650000,13218.0,191.0,"Stortorp, Huddinge kommun",71466.0,5.0,2024-11-23,Sold
+8200000,746.0,180.0,"Hässelby Norra Villastad, Stockholms kommun",45556.0,6.0,2024-11-29,Sold
+11000000,562.0,101.0,"Norra Ängby, Stockholms kommun",108911.0,5.0,2025-10-05,Available
+11000000,1206.0,200.0,"Barkarby, Järfälla kommun",55000.0,7.0,2024-08-19,Sold
+7125000,700.0,139.0,"Hässelby Södra Villastad, Stockholms kommun",51259.0,5.0,2025-05-23,Sold
+10600000,498.0,83.0,"Tallkrogen, Stockholms kommun",127711.0,5.0,2025-03-28,Sold
+14650000,986.0,164.0,"Älvsjö Långbro, Stockholms kommun",89329.0,5.0,2024-09-19,Available
+8400000,8614.0,193.0,"Stortorp, Huddinge kommun",43523.0,10.0,2023-03-13,Sold
+7950000,868.0,128.0,"Segeltorp, Huddinge kommun",62109.0,6.0,2024-11-08,Sold
+8800000,8012.0,150.0,"Töjnan, Sollentuna kommun",58667.0,6.0,2025-11-25,Sold
+6660000,1401.0,160.0,"Stuvsta, Huddinge kommun",41625.0,8.0,2025-12-03,Sold
+9800000,549.0,79.0,"Älvsjö, Stockholms kommun",124051.0,5.0,2023-05-03,Sold
+15400000,683.0,221.0,"Kungsholmen - Stora Essingen, Stockholms kommun",69683.0,6.0,2024-12-20,Available
+8750000,1106.0,102.0,"Spånga - Solhem, Stockholms kommun",85784.0,5.0,2024-10-05,Sold
+5750000,762.0,134.0,"Hässelby Norra Villastad, Stockholms kommun",42910.0,4.0,2023-11-07,Sold
+9000000,338.0,48.0,"Tallkrogen, Stockholms kommun",187500.0,4.0,2025-07-23,Sold
+8750000,910.0,165.0,"Stortorp, Huddinge kommun",53030.0,6.0,2024-07-31,Sold
+11500000,824.0,159.0,"Töjnan, Sollentuna kommun",72327.0,7.0,2025-03-07,Available
+9425000,806.0,141.0,"Spånga - Solhem, Stockholms kommun",66844.0,5.0,2024-12-17,Available
+8500000,1171.0,140.0,"Segeltorp, Huddinge kommun",60714.0,6.0,2023-07-05,Available
+9800000,508.0,87.0,"Enskedefältet, Stockholms kommun",112644.0,4.0,2025-11-22,Available
+7000000,486.0,95.0,"Farsta/Fagersjö, Stockholms kommun",73684.0,6.0,2023-01-20,Sold
+11875000,518.0,87.0,"Nockebyhov, Stockholms kommun",136494.0,3.0,2024-09-26,Sold
+4830000,1514.0,63.0,"Ågesta, Huddinge kommun",76667.0,3.0,2024-05-05,Sold
+8700000,1570.0,155.0,"Fornudden, Tyresö kommun",56129.0,7.0,2025-04-12,Available
+11700000,748.0,204.0,"Älta-Hedvigslund, Nacka kommun",57353.0,6.0,2025-10-04,Sold
+13000000,673.0,154.0,"Södra Ängby, Stockholms kommun",84416.0,6.0,2024-06-07,Available
+11575000,646.0,141.0,"Hässelby Södra Villastad, Stockholms kommun",82092.0,9.0,2024-08-06,Available
+8650000,766.0,150.0,"Spånga Bromsten, Stockholms kommun",57667.0,7.0,2025-12-14,Available
+14000000,1100.0,144.0,"Mälarhöjden, Stockholms kommun",97222.0,7.0,2023-09-20,Sold
+6920000,729.0,105.0,"Spånga Solhem, Stockholms kommun",65905.0,6.0,2023-03-09,Sold
+6900000,1076.0,90.0,"Barkarby, Järfälla kommun",76667.0,6.0,2025-09-21,Sold
+6200000,1501.0,64.0,"Högmora, Huddinge kommun",96875.0,5.0,2023-04-28,Sold
+8490000,877.0,145.0,"Myrängen, Huddinge kommun",58552.0,5.0,2023-08-27,Sold
+10750000,1006.0,128.0,"Stuvsta, Huddinge kommun",83984.0,8.0,2023-05-16,Available
+8400000,1260.0,116.0,"Spånga - Sundby, Stockholms kommun",72414.0,5.0,2024-01-21,Sold
+8625000,681.0,194.0,"Spånga Solhem, Stockholms kommun",44459.0,7.0,2025-06-17,Sold
+8650000,500.0,96.0,"Hökarängen, Stockholms kommun",90104.0,7.0,2024-01-06,Sold
+10650000,1139.0,183.0,"Fornudden, Tyresö kommun",58197.0,7.0,2025-09-23,Sold
+10350000,619.0,119.0,"Duvbo, Sundbybergs kommun",86975.0,5.0,2023-11-10,Sold
+14000000,853.0,206.0,"Mälarhöjden - Hägersten, Stockholms kommun",67961.0,6.0,2025-10-08,Sold
+12050000,547.0,126.0,"Mälarhöjden, Stockholms kommun",95635.0,6.0,2023-12-27,Sold
+11200000,488.0,88.0,"Norra Ängby, Stockholms kommun",127273.0,7.0,2025-05-16,Sold
+8750000,920.0,150.0,"Hässelby Södra Villastad, Stockholms kommun",58333.0,5.0,2025-01-13,Sold
+7850000,464.0,72.0,"Tallkrogen, Stockholms kommun",109028.0,5.0,2025-04-29,Sold
+7500000,774.0,223.0,"Spånga - Flysta, Stockholms kommun",33632.0,8.0,2025-08-24,Sold
+8430000,644.0,172.0,"Örby, Stockholms kommun",49012.0,6.0,2024-12-07,Sold
+8575000,767.0,126.0,"Fågelsången, Sollentuna kommun",68056.0,5.0,2023-06-24,Sold
+7300000,470.0,156.0,"Hässelby - Norra Villastad, Stockholms kommun",46795.0,5.0,2024-11-06,Available
+9800000,1101.0,200.0,"Stuvsta, Huddinge kommun",49000.0,8.0,2024-12-03,Sold
+9800000,1058.0,125.0,"Vällingby Nälsta, Stockholms kommun",78400.0,5.0,2023-08-19,Sold
+19700000,421.0,147.0,"Gamla Enskede, Stockholms kommun",134014.0,7.0,2023-12-27,Available
+10300000,1606.0,256.0,"Trångsund, Huddinge kommun",40234.0,8.0,2024-11-19,Sold
+15000000,496.0,134.0,"Stureby, Stockholms kommun",111940.0,7.0,2024-05-12,Sold
+14500000,480.0,130.0,"Bromma - Norra Ängby, Stockholms kommun",111538.0,7.0,2024-03-05,Sold
+6000000,229.0,110.0,"Segeltorp, Huddinge kommun",54545.0,,2025-01-23,Sold
+6900000,10205.0,68.0,"Segeltorp, Huddinge kommun",101471.0,6.0,2025-05-11,Sold
+7700000,620.0,85.0,"Solberga, Stockholms kommun",90588.0,5.0,2025-01-21,Sold
+11200000,,127.0,"Ulvsunda, Stockholms kommun",88189.0,5.0,2023-01-11,Sold
+11500000,816.0,119.0,"Älvsjö-Örby Slott, Stockholms kommun",96639.0,6.0,2024-04-23,Sold
+14200000,,155.0,"Stora Mossen, Stockholms kommun",91613.0,5.0,2025-04-04,Sold
+7700000,478.0,66.0,"Vällingby - Råcksta, Stockholms kommun",116667.0,5.0,2024-02-05,Sold
+6200000,353.0,126.0,"Vällingby - Vinsta, Stockholms kommun",49206.0,5.0,2024-01-04,Available
+8700000,612.0,65.0,"Bromma Kyrka, Stockholms kommun",133846.0,45.0,2025-06-30,Available
+31100000,1090.0,240.0,"Bromma Höglandet, Stockholms kommun",129583.0,9.0,2023-09-18,Available
+12177000,902.0,165.0,"Älvsjö / Örby, Stockholms kommun",73800.0,6.0,2024-09-12,Available
+7485000,598.0,154.0,"Spånga - Nälsta, Stockholms kommun",48604.0,6.0,2025-11-11,Sold
+8350000,348.0,112.0,"Eneby, Stockholms kommun",74554.0,5.0,2023-09-02,Sold
+8500000,771.0,176.0,"Vällingby Kälvesta, Stockholms kommun",48295.0,7.0,2023-08-02,Sold
+7000000,285.0,139.0,"Sköndal, Stockholms kommun",50360.0,5.0,2025-03-17,Sold
+7550000,546.0,90.0,"Sköndal, Stockholms kommun",83889.0,8.0,2023-11-09,Available
+9400000,924.0,172.0,"Fornudden - Persudde, Tyresö kommun",54651.0,5.0,2023-07-28,Sold
+9000000,1005.0,141.0,"Fågelsången, Sollentuna kommun",63830.0,7.0,2023-09-27,Sold
+13730000,814.0,160.0,"ÄLVSJÖ, Stockholms kommun",85813.0,6.0,2024-09-14,Sold
+5150000,494.0,112.0,"Skärholmen, Stockholms kommun",45982.0,4.0,2024-03-12,Sold
+6790000,550.0,126.0,"Vinsta, Stockholms kommun",53889.0,6.0,2025-07-10,Sold
+7550000,936.0,108.0,"Trollbäcken/Hanviken, Tyresö kommun",69907.0,7.0,2025-06-03,Available
+16100000,982.0,218.0,"Stureby, Stockholms kommun",73853.0,6.0,2023-11-15,Available
+12500000,453.0,118.0,"Gamla Enskede, Stockholms kommun",105932.0,7.0,2024-05-14,Available
+11900000,727.0,76.0,"Bromma - Olovslund, Stockholms kommun",156579.0,5.0,2023-09-09,Sold
+7050000,897.0,96.0,"Huddinge - Segeltorp, Huddinge kommun",73438.0,7.0,2023-01-20,Available
+7150000,841.0,70.0,"Segeltorp, Huddinge kommun",102143.0,5.0,2024-02-12,Sold
+14000000,656.0,152.0,"Bromma Nockeby, Stockholms kommun",92105.0,6.0,2024-12-03,Sold
+9650000,560.0,99.0,"Bagarmossen, Stockholms kommun",97475.0,5.0,2023-08-23,Sold
+5750000,288.0,126.0,"Hässelby Norra Villastad, Stockholms kommun",45635.0,6.0,2023-02-03,Sold
+9150000,1658.0,139.0,"Snättringe, Huddinge kommun",65827.0,5.0,2024-04-15,Sold
+9200000,532.0,93.0,"Sköndal - Kakstan, Stockholms kommun",98925.0,10.0,2025-04-03,Sold
+6830000,1083.0,150.0,"Spånga -  Bromsten, Stockholms kommun",45533.0,5.0,2024-07-23,Sold
+7500000,575.0,67.0,"Vällingby - Råcksta, Stockholms kommun",111940.0,5.0,2024-02-26,Sold
+7200000,1368.0,90.0,"Stuvsta Segersminne, Huddinge kommun",80000.0,3.0,2025-05-31,Available
+9700000,939.0,235.0,"Fornudden, Tyresö kommun",41277.0,7.0,2025-06-23,Available
+8870000,488.0,65.0,"Enskede / Tallkrogen - Gubbängen, Stockholms kommun",136462.0,5.0,2024-12-18,Sold
+5300000,381.0,128.0,"Skärholmen, Stockholms kommun",41406.0,6.0,2023-12-03,Sold
+9750000,336.0,92.0,"Tallkrogen, Stockholms kommun",105978.0,5.0,2023-08-28,Sold
+13650000,514.0,144.0,"Bromma Nockebyhov, Stockholms kommun",94792.0,6.0,2023-07-21,Sold
+9700000,431.0,75.0,"Norra Ängby, Stockholms kommun",129333.0,6.0,2024-01-10,Sold
+5050000,311.0,138.0,"Hässelby Norra Villastad, Stockholms kommun",36594.0,5.0,2023-10-28,Available
+9430000,349.0,66.0,"Bromma - Norra Ängby, Stockholms kommun",142879.0,6.0,2023-09-09,Sold
+9820000,478.0,101.0,"Tallkrogen, Stockholms kommun",97228.0,6.0,2024-07-30,Sold
+14775000,704.0,206.0,"Bromma - Bromma Kyrka, Stockholms kommun",71723.0,7.0,2025-01-13,Available
+6450000,791.0,146.0,"Skälby, Järfälla kommun",44178.0,7.0,2024-11-18,Sold
+10300000,804.0,186.0,"Lindalen, Tyresö kommun",55376.0,7.0,2025-03-26,Sold
+8700000,1029.0,189.0,"Skälby, Järfälla kommun",46032.0,6.0,2024-11-26,Available
+7100000,341.0,70.0,"Bromma / Beckomberga, Stockholms kommun",101429.0,6.0,2024-11-24,Sold
+7450000,999.0,104.0,"Bromsten, Stockholms kommun",71635.0,6.0,2023-02-05,Sold
+6900000,640.0,83.0,"Spånga - Bromsten, Stockholms kommun",83133.0,5.0,2024-06-06,Available
+9400000,632.0,102.0,"Sköndal - Kakstan, Stockholms kommun",92157.0,6.0,2024-10-07,Sold
+11100000,11125.0,248.0,"Helenelund, Sollentuna kommun",44758.0,9.0,2025-08-17,Sold
+15000000,687.0,141.0,"Duvbo, Sundbybergs kommun",106383.0,4.0,2025-01-11,Sold
+10700000,500.0,108.0,"Ulvsunda, Stockholms kommun",99074.0,7.0,2024-05-01,Sold
+11800000,735.0,1795.0,"Töjnan, Sollentuna kommun",65738.0,7.0,2025-05-12,Sold
+13600000,556.0,135.0,"Enskededalen, Stockholms kommun",100741.0,6.0,2025-03-30,Sold
+7150000,176.0,102.0,"Segeltorp, Huddinge kommun",70098.0,5.0,2024-12-16,Available
+12000000,436.0,86.0,"Olovslund, Stockholms kommun",139535.0,5.0,2023-04-22,Available
+20200000,858.0,153.0,"Bromma Bromma Kyrka, Stockholms kommun",132026.0,7.0,2024-06-20,Available
+8900000,600.0,220.0,"Hässelby Södra Villastad, Stockholms kommun",40455.0,7.0,2025-01-12,Sold
+8700000,1143.0,127.0,"Segeltorp, Huddinge kommun",68504.0,5.0,2025-08-04,Sold
+7800000,609.0,148.0,"Spånga, Sundby, Stockholms kommun",52703.0,5.0,2025-01-28,Sold
+6500000,906.0,71.0,"Hässelby Norra Villastad, Stockholms kommun",91549.0,4.0,2024-10-28,Sold
+6900000,855.0,113.0,"Skälby, Järfälla kommun",61062.0,5.0,2024-04-09,Sold
+15550000,729.0,132.0,"Södra Ängby, Stockholms kommun",117803.0,7.0,2025-11-26,Available
+1490000,,21.0,"Spånga - Sundby, Stockholms kommun",70952.0,2.0,2023-03-23,Sold
+8500000,1602.0,116.0,"Persudde, Tyresö kommun",73276.0,4.0,2024-01-20,Sold
+9300000,1530.0,121.0,"Trångsund, Huddinge kommun",76860.0,6.0,2023-02-15,Available
+4200000,327.0,76.0,"Kista, Stockholms kommun",55263.0,3.0,2023-06-25,Sold
+13500000,573.0,99.0,"Enskedefältet, Stockholms kommun",136364.0,6.0,2025-08-22,Available
+7475000,896.0,148.0,"Spånga Sundby, Stockholms kommun",50507.0,11.0,2024-10-14,Sold
+7200000,806.0,146.0,"Segeltorp, Huddinge kommun",49315.0,8.0,2023-12-28,Sold
+8400000,1150.0,140.0,"Stuvsta, Huddinge kommun",60000.0,5.0,2025-10-13,Sold
+7000000,,88.0,"Mariehäll, Stockholms kommun",79545.0,3.0,2025-03-16,Sold
+10300000,1224.0,134.0,"Spånga Solhem, Stockholms kommun",76866.0,5.0,2025-03-07,Sold
+6875000,443.0,144.0,"Fornudden, Tyresö kommun",47743.0,8.0,2025-07-04,Sold
+7550000,602.0,68.0,"Älvsjö Långbro, Stockholms kommun",111029.0,4.0,2023-01-04,Available
+8300000,558.0,68.0,"Älvsjö/Långbro, Stockholms kommun",122059.0,4.0,2023-09-12,Sold
+9025000,487.0,93.0,"Norra Ängby, Stockholms kommun",97043.0,7.0,2024-06-19,Available
+9000000,1140.0,163.0,"Töjnan/Tureberg, Sollentuna kommun",55215.0,7.0,2025-12-10,Sold
+9300000,569.0,74.0,"Örby, Stockholms kommun",125676.0,5.0,2023-07-25,Sold
+7450000,600.0,67.0,"Älvsjö/Herrängen, Stockholms kommun",111194.0,4.0,2025-01-09,Sold
+8995000,687.0,140.0,"Hässelby Södra Villastad, Stockholms kommun",64250.0,6.0,2025-02-04,Sold
+9000000,827.0,228.0,"Järfälla Barkarby, Järfälla kommun",39474.0,8.0,2023-10-03,Sold
+9900000,1120.0,152.0,"Spånga Solhem, Stockholms kommun",65132.0,6.0,2025-03-04,Sold
+7850000,996.0,157.0,"Fornudden, Tyresö kommun",50000.0,6.0,2023-09-23,Sold
+12500000,911.0,160.0,"Vikdalen, Nacka kommun",78125.0,5.0,2024-02-16,Available
+7450000,801.0,149.0,"Segeltorp, Huddinge kommun",50000.0,5.0,2025-10-23,Sold
+15500000,883.0,195.0,"Mälarhöjden, Stockholms kommun",79487.0,7.0,2024-04-10,Sold
+8600000,605.0,139.0,"Hässelby Södra Villastad, Stockholms kommun",61871.0,7.0,2025-04-28,Sold
+25000000,727.0,281.0,"Bromma - Stora Mossen, Stockholms kommun",88968.0,8.0,2023-09-22,Sold
+15400000,903.0,162.0,"Gamla Enskede, Stockholms kommun",95062.0,6.0,2023-02-07,Available
+15700000,763.0,137.0,"Enskededalen, Stockholms kommun",114599.0,8.0,2023-11-26,Sold
+12150000,844.0,172.0,"Tureberg, Sollentuna kommun",70640.0,8.0,2023-04-22,Available
+11760000,624.0,164.0,"Älvsjö/Långbro, Stockholms kommun",71707.0,8.0,2023-10-05,Sold
+7295000,618.0,125.0,"Sätra, Stockholms kommun",58360.0,,2024-07-18,Sold
+10200000,700.0,172.0,"Skälby, Järfälla kommun",59302.0,6.0,2024-09-21,Sold
+13000000,1307.0,174.0,"Töjnan, Sollentuna kommun",74713.0,8.0,2023-01-14,Available
+15000000,691.0,137.0,"Gamla Enskede, Stockholms kommun",109489.0,5.0,2025-03-03,Sold

@@ -5,9 +5,9 @@ import seaborn as sns
 import joblib
 
 # Loading data and model
-data = pd.read_csv("data/stockholm_house_price.csv")
-models = joblib.load("models/stockholm_house_price.pkl")
-predictions = pd.read_csv("data/predictions.csv")
+data = pd.read_csv("frontend/data/stockholm_house_price.csv")
+models = joblib.load("frontend/models/stockholm_house_price.pkl")
+predictions = pd.read_csv("frontend/data/predictions.csv")
 
 # Get required input columns from training
 required_columns = models.named_steps["preprocess"].feature_names_in_
@@ -21,7 +21,7 @@ st.markdown("Predict final price based on property data from Hemnet.")
 st.subheader("Example of cleaned data")
 st.dataframe(data.head(10))
 
-# Predictions 
+# Predictions
 st.subheader("Actual vs Predicted price")
 fig, ax = plt.subplots(figsize=(10,6))
 predictions["y_true_m"] = predictions["y_true"] / 1_000_000
