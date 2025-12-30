@@ -5,7 +5,7 @@ import seaborn as sns
 import joblib
 
 # Loading data and model
-data = pd.read_csv("frontend/data/stockholm_house_price.csv")
+data = pd.read_csv("frontend/data/stockholm_homeprices.csv")
 models = joblib.load("frontend/models/stockholm_house_price.pkl")
 predictions = pd.read_csv("frontend/data/predictions.csv")
 
@@ -17,8 +17,8 @@ st.set_page_config(page_title="House prices in Stockholm", layout="wide")
 st.title("Stockholm House Price Prediction Dashboard")
 st.markdown("Predict final price based on property data from Hemnet.")
 
-# Data insight
-st.subheader("Example of cleaned data")
+# Data overview
+st.subheader("Overview")
 st.dataframe(data.head(10))
 
 # Predictions
