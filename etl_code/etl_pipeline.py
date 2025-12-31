@@ -28,24 +28,19 @@ def transform_data(df):
 
     days = np.random.randint(0, (end - start).days, size=len(df))
     df['sale_date'] = df['sale_date'] = start + pd.to_timedelta(days, unit='D')
-    df['status'] = np.where(np.random.rand(len(df)) > 0.65, "Available", "Sold") 
+    df['status'] = np.where(np.random.rand(len(df)) > 0.62, "Available", "Sold") 
     #df['status'] = df['final_price'].apply(lambda x: "Available" if pd.isna(x) else "Sold")
     
-
-
-        
     df = df.drop(columns=df.select_dtypes(include=['bool']).columns)
     df = df.drop(columns=[
-        'unnamed: 0',
-        'address', 
+        'unnamed: 0', 
         'coordinate',
         'asked_price',
         'pourcentage_difference',
         'supplemental_area',
-]) # Removing unnecesary columns
+    ]) # Removing unnecesary columns
     return df
 
-        
             
 # Load & save
 def load_csv(df, output_file):

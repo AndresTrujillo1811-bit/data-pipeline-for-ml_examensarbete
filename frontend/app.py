@@ -14,15 +14,15 @@ required_columns = models.named_steps["preprocess"].feature_names_in_
 
 # Title
 st.set_page_config(page_title="House prices in Stockholm", layout="wide")
-st.title("Stockholm House Price Prediction Dashboard")
+st.title("Stockholm House Price Prediction Dashboard 🏠")
 st.markdown("Predict final price based on property data from Hemnet.")
 
 # Data overview
-st.subheader("Overview")
+st.subheader("Overview 🔍")
 st.dataframe(data.head(10))
 
 # Predictions
-st.subheader("Actual vs Predicted price")
+st.subheader("Actual vs Predicted price 📈")
 fig, ax = plt.subplots(figsize=(10,6))
 predictions["y_true_m"] = predictions["y_true"] / 1_000_000
 predictions["y_pred_m"] = predictions["y_pred"] / 1_000_000
@@ -41,7 +41,7 @@ st.pyplot(fig)
 
 
 # Make your own prediction
-st.subheader("Test your own price prediction")
+st.subheader("Make your own price prediction 💰")
 land_area = st.number_input("Land Area (m²)", min_value=0.0, max_value=2000.0, value=500.0) # Land area
 rooms = st.number_input("Rooms", min_value=1, max_value=12, value=4) # Rooms
 price_per_area = st.number_input("Price per m²", min_value=10000.0, max_value=200000.0, value=80000.0) # Price per area
@@ -50,12 +50,10 @@ price_per_area = st.number_input("Price per m²", min_value=10000.0, max_value=2
 commune_values = sorted(data["commune"].unique())
 selected_commune = st.selectbox("Choose commune", commune_values)
 
-
+    
 if st.button("Calculate expected price"):
     input_df = pd.DataFrame([{col: None for col in required_columns}])
-   
 
-    # Fill numeric fields
     if "land_area" in input_df.columns:
         input_df.loc[0, "land_area"] = land_area
 
@@ -80,13 +78,27 @@ if st.button("Calculate expected price"):
     if "commune" in input_df.columns:
         input_df.loc[0, "commune"] = selected_commune
 
-
-    # Convert numeric columns to numbers
     num_cols = models.named_steps["preprocess"].transformers_[0][2]
     input_df[num_cols] = input_df[num_cols].apply(pd.to_numeric, errors="coerce")
     input_df = input_df.fillna(0)
 
-
     # Predict
     prediction = models.predict(input_df)[0]
-    st.success(f"Final Price: {prediction:,.0f} kr")
+
+    # Find residence
+    residences = data[data["commune"] == selected_commune].copy()
+    residences["similarity_score"] = (
+        abs(residences["land_area"] - land_area)
+        + abs(residences["price_per_area"] - price_per_area)
+    )
+
+    best_match = residences.sort_values("similarity_score").iloc[0]
+    matched_address = best_match["address"]
+    matched_price = best_match["final_price"]
+
+    
+    st.success(
+        f"🏠 **Residence:** {matched_address}\n"
+        f"📍 Commune: {selected_commune}\n\n"
+        f"💰 **Predicted price:** {prediction:,.0f} kr\n"
+    )
