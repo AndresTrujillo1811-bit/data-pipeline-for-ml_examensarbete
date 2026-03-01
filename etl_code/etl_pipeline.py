@@ -27,7 +27,7 @@ def transform_data(df):
     end = pd.Timestamp(2025, 12, 31)
 
     days = np.random.randint(0, (end - start).days, size=len(df))
-    df['sale_date'] = df['sale_date'] = start + pd.to_timedelta(days, unit='D')
+    df['sale_date'] = start + pd.to_timedelta(days, unit='D')
     df['status'] = np.where(np.random.rand(len(df)) > 0.62, "On sale", "Sold") 
     #df['status'] = df['final_price'].apply(lambda x: "Available" if pd.isna(x) else "Sold")
     
